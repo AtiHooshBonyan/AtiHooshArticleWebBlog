@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\",
+  "Documents": [],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 209,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7d1a5679-04f2-3f4a-851f-855baa54731c}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

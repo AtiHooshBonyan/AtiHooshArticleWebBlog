@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <title>Article Viewer</title>
+</head>
+<body>
+    <header>
+        Articles
+        <div class="header-buttons">
+            <button id="add-btn">＋ Add</button>
+        </div>
+    </header>
+    <main>
+        <div id="loading">Loading articles...</div>
+        <div id="error" style="display:none;"></div>
+        <ul id="article-list" class="article-list" style="display:none;"></ul>
+    </main>
+
+    <div id="article-detail" aria-hidden="true">
+        <button class="close-btn" aria-label="Close article details">&times;</button>
+        <h2 id="detail-title"></h2>
+        <p id="detail-content"></p>
+    </div>
+    <div class="container">
+        @RenderBody()
+
+    </div>
+    <div id="article-form-modal" class="modal">
+        <div class="modal-content">
+            <h2 id="form-title">Add Article</h2>
+            <input type="text" id="article-title" placeholder="Title" />
+            <textarea id="article-content" placeholder="Content"></textarea>
+            <input type="datetime-local" id="article-publishedAt" placeholder="Published At" />
+            <input type="text" id="article-imagePath" placeholder="Image Path (URL or file path)" />
+            <input type="url" id="article-videoUrl" placeholder="Video URL" />
+            <input type="datetime-local" id="article-updatedAt" placeholder="Updated At" />
+            <div class="form-buttons">
+                <button id="save-article-btn">Save</button>
+                <button id="cancel-btn">Cancel</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+   <script src ="~/js/script.js"></script>
+</body>
+</html>
