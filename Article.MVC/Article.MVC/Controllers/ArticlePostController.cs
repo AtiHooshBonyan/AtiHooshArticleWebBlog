@@ -35,7 +35,7 @@ namespace Article.MVC.Controllers
                     return NoContent();
                 }
 
-                return Ok(articles); // ✅ Return the list directly
+                return Ok(articles); 
             }
             catch (Exception)
             {
@@ -65,7 +65,7 @@ namespace Article.MVC.Controllers
             }
             catch (Exception)
             {
-                // Log exception here
+                
                 return StatusCode(500, "An error occurred while retrieving the article.");
             }
         }
