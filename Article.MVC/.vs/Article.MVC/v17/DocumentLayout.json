@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|c:\\users\\ati1\\source\\repos\\atihoosharticlewebblog\\article.mvc\\article.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|solutionrelative:article.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 209,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{7d1a5679-04f2-3f4a-851f-855baa54731c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Article.MVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Article.MVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:47:21.104Z",
+              "EditorCaption": ""
             }
           ]
         }

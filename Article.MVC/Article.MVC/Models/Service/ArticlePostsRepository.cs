@@ -110,11 +110,11 @@ namespace Article.MVC.Models.Service
 
                 return new Response<ArticlePost>(true, HttpStatusCode.OK, "Article updated successfully", existingArticle);
             }
-            catch (DbUpdateConcurrencyException ex)
+            catch (DbUpdateConcurrencyException)
             {
                 return new Response<ArticlePost>(false, HttpStatusCode.Conflict, "Concurrency conflict occurred", null);
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 return new Response<ArticlePost>(false, HttpStatusCode.InternalServerError, "An error occurred while updating the article", null);
             }

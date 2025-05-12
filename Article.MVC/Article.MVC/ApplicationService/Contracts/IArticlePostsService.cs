@@ -2,7 +2,8 @@
 
 namespace Article.MVC.ApplicationService.Contracts
 {
-    public interface IArticlePostsService : IService< PostArticleServiceDto, GetArticleServiceDto, GetAllArticleServiceDto, PutArticleServiceDto , DeleteArticleServiceDto>
+    public interface IArticlePostsService : IService< PostArticleServiceDto, GetArticleServiceDto,
+    GetAllArticleServiceDto, PutArticleServiceDto , DeleteArticleServiceDto>
     {
     }
 }

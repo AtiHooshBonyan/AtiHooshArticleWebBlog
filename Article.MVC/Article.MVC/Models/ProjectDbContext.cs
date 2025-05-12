@@ -9,5 +9,6 @@ namespace Article.MVC.Models
         {
         }
         public DbSet<ArticlePost> articlePosts { get; set; }
+        public DbSet<User> users { get; set; }
     }
 }

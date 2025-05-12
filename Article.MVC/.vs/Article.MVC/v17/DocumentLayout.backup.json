@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|c:\\users\\ati1\\source\\repos\\atihoosharticlewebblog\\article.mvc\\article.mvc\\applicationservice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|solutionrelative:article.mvc\\applicationservice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|c:\\users\\ati1\\source\\repos\\atihoosharticlewebblog\\article.mvc\\article.mvc\\applicationservice\\services\\articlepostsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|solutionrelative:article.mvc\\applicationservice\\services\\articlepostsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|c:\\users\\ati1\\source\\repos\\atihoosharticlewebblog\\article.mvc\\article.mvc\\applicationservice\\dtos\\userdtos\\postuserservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|solutionrelative:article.mvc\\applicationservice\\dtos\\userdtos\\postuserservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|c:\\users\\ati1\\source\\repos\\atihoosharticlewebblog\\article.mvc\\article.mvc\\applicationservice\\dtos\\userdtos\\getuserservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|solutionrelative:article.mvc\\applicationservice\\dtos\\userdtos\\getuserservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|c:\\users\\ati1\\source\\repos\\atihoosharticlewebblog\\article.mvc\\article.mvc\\applicationservice\\dtos\\userdtos\\getalluserservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|solutionrelative:article.mvc\\applicationservice\\dtos\\userdtos\\getalluserservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|c:\\users\\ati1\\source\\repos\\atihoosharticlewebblog\\article.mvc\\article.mvc\\applicationservice\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|solutionrelative:article.mvc\\applicationservice\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|c:\\users\\ati1\\source\\repos\\atihoosharticlewebblog\\article.mvc\\article.mvc\\models\\service\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|solutionrelative:article.mvc\\models\\service\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|c:\\users\\ati1\\source\\repos\\atihoosharticlewebblog\\article.mvc\\article.mvc\\applicationservice\\contracts\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|solutionrelative:article.mvc\\applicationservice\\contracts\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|c:\\users\\ati1\\source\\repos\\atihoosharticlewebblog\\article.mvc\\article.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B447687-246C-4F1D-B664-6871CC8E41A0}|Article.MVC\\Article.MVC.csproj|solutionrelative:article.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,8 +46,126 @@
       "DocumentGroups": [
         {
           "DockedHeight": 209,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\ApplicationService\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Article.MVC\\ApplicationService\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\ApplicationService\\Services\\UserService.cs",
+              "RelativeToolTip": "Article.MVC\\ApplicationService\\Services\\UserService.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAiwJAAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:17:57.77Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostUserServiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\ApplicationService\\Dtos\\UserDtos\\PostUserServiceDto.cs",
+              "RelativeDocumentMoniker": "Article.MVC\\ApplicationService\\Dtos\\UserDtos\\PostUserServiceDto.cs",
+              "ToolTip": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\ApplicationService\\Dtos\\UserDtos\\PostUserServiceDto.cs",
+              "RelativeToolTip": "Article.MVC\\ApplicationService\\Dtos\\UserDtos\\PostUserServiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:14:27.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetUserServiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\ApplicationService\\Dtos\\UserDtos\\GetUserServiceDto.cs",
+              "RelativeDocumentMoniker": "Article.MVC\\ApplicationService\\Dtos\\UserDtos\\GetUserServiceDto.cs",
+              "ToolTip": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\ApplicationService\\Dtos\\UserDtos\\GetUserServiceDto.cs",
+              "RelativeToolTip": "Article.MVC\\ApplicationService\\Dtos\\UserDtos\\GetUserServiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:08:41.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllUserServiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\ApplicationService\\Dtos\\UserDtos\\GetAllUserServiceDto.cs",
+              "RelativeDocumentMoniker": "Article.MVC\\ApplicationService\\Dtos\\UserDtos\\GetAllUserServiceDto.cs",
+              "ToolTip": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\ApplicationService\\Dtos\\UserDtos\\GetAllUserServiceDto.cs",
+              "RelativeToolTip": "Article.MVC\\ApplicationService\\Dtos\\UserDtos\\GetAllUserServiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:08:37.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticlePostsService.cs",
+              "DocumentMoniker": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\ApplicationService\\Services\\ArticlePostsService.cs",
+              "RelativeDocumentMoniker": "Article.MVC\\ApplicationService\\Services\\ArticlePostsService.cs",
+              "ToolTip": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\ApplicationService\\Services\\ArticlePostsService.cs",
+              "RelativeToolTip": "Article.MVC\\ApplicationService\\Services\\ArticlePostsService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwDcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:57:17.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\ApplicationService\\Contracts\\IUserService.cs",
+              "RelativeDocumentMoniker": "Article.MVC\\ApplicationService\\Contracts\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\ApplicationService\\Contracts\\IUserService.cs",
+              "RelativeToolTip": "Article.MVC\\ApplicationService\\Contracts\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:49:19.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Article.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\Program.cs",
+              "RelativeToolTip": "Article.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:42:10.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\ApplicationService\\Contracts\\IService.cs",
+              "RelativeDocumentMoniker": "Article.MVC\\ApplicationService\\Contracts\\IService.cs",
+              "ToolTip": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\ApplicationService\\Contracts\\IService.cs",
+              "RelativeToolTip": "Article.MVC\\ApplicationService\\Contracts\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:36:37.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\Models\\Service\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Article.MVC\\Models\\Service\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Ati1\\source\\repos\\AtiHooshArticleWebBlog\\Article.MVC\\Article.MVC\\Models\\Service\\UserRepository.cs",
+              "RelativeToolTip": "Article.MVC\\Models\\Service\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:34:23.432Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{7d1a5679-04f2-3f4a-851f-855baa54731c}"

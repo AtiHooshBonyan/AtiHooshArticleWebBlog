@@ -16,6 +16,8 @@ namespace Article.MVC.Models.DomainModels
         public string VideoUrl { get; set; }
         public DateTime PublishedAt { get; set; }
         public DateTime? UpdatedAt { get; set; }
+        public Guid UserId { get; set; }
+        public User User { get; set; }
 
     }
 }

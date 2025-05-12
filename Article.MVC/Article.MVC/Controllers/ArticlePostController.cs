@@ -37,7 +37,7 @@ namespace Article.MVC.Controllers
 
                 return Ok(articles); // ✅ Return the list directly
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 return StatusCode(500, "An error occurred while retrieving articles.");
             }
@@ -63,7 +63,7 @@ namespace Article.MVC.Controllers
                 return Ok(response);
 
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 // Log exception here
                 return StatusCode(500, "An error occurred while retrieving the article.");
@@ -168,7 +168,6 @@ namespace Article.MVC.Controllers
             {
                 return Problem($" {nameof(_articlePostsService)} is null.");
             }
-
             return null;
         }
         #endregion

@@ -470,3 +470,4 @@ C:\Users\Ati1\source\repos\AtiHooshArticleWebBlog\Article.MVC\Article.MVC\obj\De
 C:\Users\Ati1\source\repos\AtiHooshArticleWebBlog\Article.MVC\Article.MVC\obj\Debug\net9.0\Article.MVC.pdb
 C:\Users\Ati1\source\repos\AtiHooshArticleWebBlog\Article.MVC\Article.MVC\obj\Debug\net9.0\Article.MVC.genruntimeconfig.cache
 C:\Users\Ati1\source\repos\AtiHooshArticleWebBlog\Article.MVC\Article.MVC\obj\Debug\net9.0\ref\Article.MVC.dll
+C:\Users\Ati1\source\repos\AtiHooshArticleWebBlog\Article.MVC\Article.MVC\obj\Debug\net9.0\Article.MVC.sourcelink.json

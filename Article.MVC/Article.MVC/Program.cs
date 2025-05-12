@@ -16,7 +16,9 @@ builder.Services.AddDbContext<ProjectDbContext>(options => options.UseSqlServer(
 
 // Register repositories and services
 builder.Services.AddScoped<IArticlePostsRepository, ArticlePostsRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IArticlePostsService, ArticlePostsService>();
+builder.Services.AddScoped<IUserService, UserService>();
 
 // CORS configuration (if needed)
 builder.Services.AddCors(options =>
