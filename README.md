@@ -58,12 +58,6 @@
 
 ---
 
-## 📸 Screenshots
-
-*Note: Include screenshots of the homepage, article editor, and user dashboard here to showcase the application's UI.*
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you'd like to improve this project, please follow these steps:
